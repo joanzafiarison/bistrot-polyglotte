@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Bistrot Polyglotte",
+    "slug": "bistrot-polyglotte",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#f3f5f1",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.joanzaf.bistrotpolyglotte"
+    },
+    "android": {
+      "package": "com.joanzaf.bistrotpolyglotte",
+      "versionCode": 1
+    }
+  }
+}
