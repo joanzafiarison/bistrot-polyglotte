@@ -13,6 +13,12 @@
     "android": {
       "package": "com.joanzaf.bistrotpolyglotte",
       "versionCode": 1
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e98ef54a-b735-4821-9f73-73960f15f5cf"
+      }
+    },
+    "owner": "joanzafdev"
   }
 }
